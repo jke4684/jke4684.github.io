@@ -1,8 +1,7 @@
 # main links
 main:
    - title : "category"
-     url : "첫번 째 블로그 입니다.!"
-     categories : coding
+     url : "첫번"
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"

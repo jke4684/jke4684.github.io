@@ -1,0 +1,3 @@
+---
+title: "Category"
+layout:categories
