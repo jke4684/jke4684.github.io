@@ -115,11 +115,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "jws"
+  name             : "ws"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "장우성 개발자의 블로그입니다."
+  bio              : "Hello"
   location         : "Gunpo City, Gyeonggi Province"
-  email            : "aktkrl@naver.com"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
