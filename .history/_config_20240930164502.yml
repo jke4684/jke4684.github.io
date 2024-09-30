@@ -114,7 +114,7 @@ analytics:
   google:
     tracking_id          : "G-6Y46PEKZXN"
     # true, false (default)
-    anonymize_ip         : false
+    anonymize_ip         : 
 
 
 # Site Author
