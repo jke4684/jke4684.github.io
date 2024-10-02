@@ -36,7 +36,7 @@ copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
 comments:
   # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
-  provider               : utterances
+  provider               : utterancesutterances
   disqus:
     shortname            : "githubBlog"
   discourse:
