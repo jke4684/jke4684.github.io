@@ -63,9 +63,9 @@
   $color,
   $threshold: $yiq-contrasted-threshold
 ) {
-  $red: red($color);
-  $green: green($color);
-  $blue: blue($color);
+  $red: color.channel($color, "red");
+  $green: color.channel($color, "green");
+  $blue: color.channel($color, "blue");
 
   $yiq:($red * 299) + ($green * 587) + ($blue * 114), 1000;
 
