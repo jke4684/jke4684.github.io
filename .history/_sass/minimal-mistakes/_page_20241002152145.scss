@@ -106,13 +106,16 @@ body {
 		}
 	}
 
-  p {
+  p,
+  li,
+  dl {
     font-size: 0.6em;
   }
 
+  p,
   li,
   dl {
-    font-size: 1em;
+    font-size: 0.6em;
   }
   /* paragraph indents */
   p {
